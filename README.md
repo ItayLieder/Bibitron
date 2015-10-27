@@ -1,0 +1,2 @@
+# Bibitron
+Bibi speech generator
